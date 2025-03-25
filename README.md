@@ -1,6 +1,6 @@
 ![Header](https://github.com/user-attachments/assets/b8afc4d1-a68b-4be7-842d-656e4f3de06e)
 
-<br/>Проекты:
+## Проекты
 
 <br/>• Prisoner of Darkness
 <br/>- Индивидуальный итоговый проект по курсу "Разработка компьютерных игр" от РТУ МИРЭА
